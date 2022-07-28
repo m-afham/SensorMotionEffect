@@ -2,7 +2,6 @@
   <img width="100" src="https://user-images.githubusercontent.com/35783310/181525026-ca49f314-1e60-4a4b-baa8-f5fa0503c00c.png" alt="Icon" /> <br>
   Sensor Motion Effect <br>  <br>
   
-![GitHub all releases](https://img.shields.io/github/downloads/m-afham/SensorMotionEffect/total)
 ![GitHub language count](https://img.shields.io/github/languages/count/m-afham/SensorMotionEffect) 
 ![GitHub top language](https://img.shields.io/github/languages/top/m-afham/SensorMotionEffect?color=yellow) 
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/m-afham/SensorMotionEffect)
